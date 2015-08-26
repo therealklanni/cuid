@@ -34,6 +34,7 @@
     "eslint": "^0.24.0",
     "node-libs-browser": "^0.5.2",
     "rimraf": "^2.4.1",
+    "selenium-sauce": "^0.3.4",
     "webpack": "^1.10.1"
   },
   "scripts": {
